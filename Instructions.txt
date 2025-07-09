@@ -1,0 +1,9 @@
+INSTRUCCIONES DE USO PARA EL CONTROLADOR DE TEMPERATURA
+
+
+1. Para enfriar, en el relé debe estar encendida la luz verde, para calentar apagada. En caso contrario modificar manualmente antes de ejecutarlo.
+
+
+2. Evitar cambios bruscos en la temperatura. Empezar en el mínimo e ir subiendo poco a poco.
+
+3. El ventilador aumenta la eficiencia de enfriamiento considerablemente sobre todo a t largos.
